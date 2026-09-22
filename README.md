@@ -57,7 +57,6 @@ Python For Beginners/python-hello-world/submission-0.py
 | SQL | `.sql` |
 
 ---
-
 ## Settings
 
 Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
